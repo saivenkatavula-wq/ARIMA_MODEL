@@ -1,4 +1,3 @@
-Sure, here's a basic template for a README file that you can use to describe the ARIMA notebook you're uploading to GitHub. Feel free to modify it to better fit your project.
 
 ---
 
